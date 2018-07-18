@@ -5,10 +5,12 @@
 ## install vuejs-contextmenu-lan
 
   npm install vuejs-contextmenu-lan -s
+  
   yarn add vuejs-contextmenu-lan
   
  ## 預覽 Preview
 ![Alt text](https://raw.githubusercontent.com/chingfanglin/vuejs-contextmenu-lan/master/docs/image/contextmenu1.png)
+
 ![Alt text](https://raw.githubusercontent.com/chingfanglin/vuejs-contextmenu-lan/master/docs/image/contextmenu2.png)
 
 [Demo](https://chingfanglin.github.io/vuejs-contextmenu-lan/)
